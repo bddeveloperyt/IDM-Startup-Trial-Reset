@@ -26,13 +26,13 @@ Right-click on the windows start menu and run PowerShell as an Admin. It won't w
 
 Copy-paste the following code and press enter:
 
-    iwr -useb https://naeembolchhi.github.io/IDM-Startup-Trial-Reset/startup.ps1 | iex
+    iwr -useb https://bddeveloperyt.github.io/IDM-Startup-Trial-Reset/startup.ps1 | iex
 
 The script will automatically reset IDM trial and create a task so that the trial reset script runs on every boot.
 
 Looking to remove this script and its associated task? Copy-paste the following code and press enter:
 
-    iwr -useb https://naeembolchhi.github.io/IDM-Startup-Trial-Reset/remove.ps1 | iex
+    iwr -useb https://bddeveloperyt.github.io/IDM-Startup-Trial-Reset/remove.ps1 | iex
 
 <br>
 
@@ -82,8 +82,9 @@ That's all.
 
 | **Dev** | **Contribution** |
 |---|---|
-| Dukun Cabul | Original researcher of this IDM trial reset and activation logic, made an Autoit tool for these methods, [IDM-AIO_2020_Final](https://nsaneforums.com/topic/371047-discussion-internet-download-manager-fixes/page/8/#comment-1632062) |
+| Dukun Cabul | Original researcher of this IDM trial reset and activation logic, made an Autoit tool for these methods, [IDM-AIO_2020_Final]() |
 | AveYo aka BAU | [reg_own lean and mean snippet](https://pastebin.com/XTPt0JSC) |
 | abbodi1406 | Help in coding |
 | WindowsAddict | IAS Author |
-| NaeemBolchhi | Minor fork to perpetually reset the 30-day trial period |
+| bddeveloperyt | Minor fork to perpetually reset the 30-day trial period |
+
